@@ -1,0 +1,8 @@
+{
+  "name": "desktop",
+  "packageManager": "yarn@4.4.0",
+  "dependencies": {
+    "@types/react": "^19.1.12",
+    "electron": "^37.4.0"
+  }
+}
